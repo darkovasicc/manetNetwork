@@ -1,0 +1,3 @@
+package manetnetwork;
+
+@license(LGPL);
